@@ -1,0 +1,33 @@
+
+assets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ship_main
+  rotate: false
+  x: 0,0
+  size: 32,32
+  orig: 16,16
+  offset: 0,0
+  index: -1
+ship_extra
+  rotate: false
+  x: 0,32
+  size: 32,32
+  orig: 16,16
+  offset: 0,0
+  index: -1
+asteroid
+  rotate: false
+  x: 0,64
+  size: 32,32
+  orig: 32,32
+  offset: 0,0
+  index: -1
+background
+  rotate: false
+  x: 0,128
+  size: 128,128
+  orig: 128,128
+  offset: 0,0
+  index: -1
